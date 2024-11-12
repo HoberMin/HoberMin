@@ -1,6 +1,4 @@
-### 👨‍💻 Hello, I am Son Ho Min
-
-🌱 신입 프론트엔드 개발자를 희망하는 손호민입니다.
+### 👨‍💻 Hi, There
 
 [![mail](https://img.shields.io/badge/Mail-845ef7?logo=gmail&logoColor=white&style=flat)](sonhomin98@naver.com)
 [![Velog](https://img.shields.io/badge/Velog-845ef7?logo=vercel&logoColor=white&style=flat)](https://velog.io/@hober/posts)
@@ -34,10 +32,6 @@
 ![hr](https://capsule-render.vercel.app/api?type=rect&color=0:845ef7,100:845ef7&height=1)
 
 ### 📝 Record
-
-`2023.09 ~ 2024.03` **Programmers Web Devcourse 5th** - Grepp
-
-`2017.03 ~ 2024.02` **Department of Medical IT** - Eulji Univ.
 
 ![hoberMin's GitHub stats](https://github-readme-stats-psi-smoky.vercel.app/api?username=hoberMin&show_icons=true&bg_color=0,845ef7,FB7185&text_color=fff&title_color=fff&hide_border=true&icon_color=fff&hide_rank=true)
 

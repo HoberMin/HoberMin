@@ -37,4 +37,4 @@
 
 ![Top Langs](https://github-readme-stats-psi-smoky.vercel.app/api/top-langs/?username=hoberMin&layout=compact&bg_color=0,845ef7,FB7185&text_color=fff&title_color=fff&hide_border=true&hide=java,objective-c&border_radius=4&hide_progress=true)
 
-<img src="https://api.solve-nyang.com/compose/sonhomin98" width="600" height="300"/>" />
+<img src="https://api.solve-nyang.com/compose/${data.username}" width="600" height="300" />

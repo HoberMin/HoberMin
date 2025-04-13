@@ -4,7 +4,6 @@
 [![Velog](https://img.shields.io/badge/Velog-845ef7?logo=vercel&logoColor=white&style=flat)](https://velog.io/@hober/posts)
 
 [![Solved.ac profile](https://mazassumnida.wtf/api/mini/generate_badge?boj=sonhomin98)](https://solved.ac/sonhomin98)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhoberMin%2Fhit-counter&count_bg=%236BD32C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/018dc124-21ef-416e-be3e-e246b9cdffdf.svg)](https://wakatime.com/@018dc124-21ef-416e-be3e-e246b9cdffdf)
 
 ![hr](https://capsule-render.vercel.app/api?type=rect&color=0:845ef7,100:845ef7&height=1)

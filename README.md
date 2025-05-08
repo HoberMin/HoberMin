@@ -1,5 +1,8 @@
 ### 👨‍💻 Hi, There
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sonhomin98" width="600" height="300"/></a>
+
+
 [![mail](https://img.shields.io/badge/Mail-845ef7?logo=gmail&logoColor=white&style=flat)](sonhomin98@naver.com)
 [![Velog](https://img.shields.io/badge/Velog-845ef7?logo=vercel&logoColor=white&style=flat)](https://velog.io/@hober/posts)
 
@@ -35,5 +38,3 @@
 ![hoberMin's GitHub stats](https://github-readme-stats-psi-smoky.vercel.app/api?username=hoberMin&show_icons=true&bg_color=0,845ef7,FB7185&text_color=fff&title_color=fff&hide_border=true&icon_color=fff&hide_rank=true)
 
 ![Top Langs](https://github-readme-stats-psi-smoky.vercel.app/api/top-langs/?username=hoberMin&layout=compact&bg_color=0,845ef7,FB7185&text_color=fff&title_color=fff&hide_border=true&hide=java,objective-c&border_radius=4&hide_progress=true)
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sonhomin98" width="600" height="300"/></a>
